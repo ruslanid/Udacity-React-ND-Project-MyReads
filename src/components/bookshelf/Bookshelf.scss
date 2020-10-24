@@ -1,0 +1,12 @@
+.Bookshelf {
+  padding: 0 10px 20px;
+  
+
+  @media (min-width: 600px) {
+    padding: 0 20px 40px;
+  }
+
+  .bookshelf-title {
+    border-bottom: 1px solid #dedede;
+  }
+}
